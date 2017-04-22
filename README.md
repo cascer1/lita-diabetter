@@ -1,5 +1,7 @@
 # lita-diabetter
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/218ed88601a243ccae18e98e590b622d)](https://www.codacy.com/app/cascer1/lita-diabetter?utm_source=github.com&utm_medium=referral&utm_content=cascer1/lita-diabetter&utm_campaign=badger)
+
 [![Build Status][travis-img]][travis-url]
 [![Gem Version][gem-img]][gem-url]
 [![Gem Downloads][gem-dl-img]][gem-url]
